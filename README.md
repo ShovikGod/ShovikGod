@@ -64,7 +64,7 @@ const shovik = {
 <hr>
 
 ## **🛠️ What I use**
-<div style="display:flex; justify-content:center;">
+<div align="center">
 <img src="https://media.giphy.com/media/12bVDtXPOzYwda/giphy.gif" width="40%">
 </div>
 <br/>
