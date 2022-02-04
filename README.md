@@ -23,7 +23,6 @@
 ![Instagram](https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 </a>
 </div>
-<hr/>
 
 ## **🙋 About Me**
 
@@ -54,7 +53,6 @@ const shovik = {
 ```
 
 <br/>
-<hr>
 
 ## **🔥 Streak Stats**
 <div align="center">
@@ -62,7 +60,6 @@ const shovik = {
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShovikGod&theme=dark&hide_border=true&background=0D1117&stroke=000000&ring=FA7D09&fire=FF4C29&currStreakNum=FA7D09&currStreakLabel=FA7D09&dates=FA7D09&type=svg)
 </div>
 <br/>
-<hr>
 
 ## **🛠️ What I use**
 <div align="center">
@@ -117,7 +114,6 @@ const shovik = {
 </div>
 </div>
 <br/>
-<hr>
 
 ## **📊 My Github Stats**
 
